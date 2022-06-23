@@ -51481,7 +51481,7 @@ i.toString
 i=A.bK(i)?20:25}n=A.me(e,A.kZ(A.a([A.qw(A.Lz(A.a([l,k,j,A.ep(e,i,e),f.EL()],s),B.aI,B.av)),A.qw(A.kZ(A.a([A.ku("images/ss_2.png",e,e,f.c.G(a).f.a.a/3,e)],s),B.bS,B.eK,B.aN))],s),B.aI,B.av,B.aN),e,e,e,new A.bh(m,n,m,n),e)
 m=f.oH("images/ic_boost.png","images/ss_3.png","Ram Booster","Ram Booster helps speed up the phone by freeing up RAM. After boosting your mobile, you can run a speed test to see how much faster it is.",!1)
 i=f.oH("images/ic_battery.png","images/ss_4.png","Battery Optimization","Battery Optimization helps to save battery power and extend it life by hibernating running apps.",!0)
-j=f.oH("images/ic_cleaner.png","images/ss_5.png","Junk Clenaer","Junk Cleaner helps free up your storage space by removing junk, residual and cache files which slows down your phone.\n\nWith our professional cleaner, you can also free up much more space from cleaning cache data from social apps without worrying about deleting the wrong files.",!1)
+j=f.oH("images/ic_cleaner.png","images/ss_5.png","Junk Cleaner","Junk Cleaner helps free up your storage space by removing junk, residual and cache files which slows down your phone.\n\nWith our professional cleaner, you can also free up much more space from cleaning cache data from social apps without worrying about deleting the wrong files.",!1)
 k=f.oH("images/ic_info.png","images/ss_6.png","Information","It is Information of Battery, Device, CPU, System and Sensor",!0)
 if(a1.G(a).f.a.a<800)l=16
 else l=A.bK(a1)?20:26
